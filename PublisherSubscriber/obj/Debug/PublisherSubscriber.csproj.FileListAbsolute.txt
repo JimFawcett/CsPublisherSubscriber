@@ -1,0 +1,5 @@
+C:\su\coretechnologies\CSharp\code\InvokingLambdas\InvokingLambdas\bin\Debug\InvokingLambdas.exe.config
+C:\su\coretechnologies\CSharp\code\InvokingLambdas\InvokingLambdas\bin\Debug\InvokingLambdas.exe
+C:\su\coretechnologies\CSharp\code\InvokingLambdas\InvokingLambdas\bin\Debug\InvokingLambdas.pdb
+C:\su\coretechnologies\CSharp\code\InvokingLambdas\InvokingLambdas\obj\Debug\InvokingLambdas.exe
+C:\su\coretechnologies\CSharp\code\InvokingLambdas\InvokingLambdas\obj\Debug\InvokingLambdas.pdb

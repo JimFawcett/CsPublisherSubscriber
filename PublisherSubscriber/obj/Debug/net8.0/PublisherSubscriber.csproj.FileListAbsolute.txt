@@ -1,0 +1,14 @@
+c:\github\JimFawcett\NewSite\Code\C#\CsPublisherSubscriber\PublisherSubscriber\obj\Debug\net8.0\PublisherSubscriber.GeneratedMSBuildEditorConfig.editorconfig
+c:\github\JimFawcett\NewSite\Code\C#\CsPublisherSubscriber\PublisherSubscriber\obj\Debug\net8.0\PublisherSubscriber.csproj.CoreCompileInputs.cache
+c:\github\JimFawcett\NewSite\Code\C#\CsPublisherSubscriber\PublisherSubscriber\obj\Debug\net8.0\PublisherSubscriber.sourcelink.json
+c:\github\JimFawcett\NewSite\Code\C#\CsPublisherSubscriber\PublisherSubscriber\bin\Debug\net8.0\InvokingLambdas.exe
+c:\github\JimFawcett\NewSite\Code\C#\CsPublisherSubscriber\PublisherSubscriber\bin\Debug\net8.0\InvokingLambdas.dll.config
+c:\github\JimFawcett\NewSite\Code\C#\CsPublisherSubscriber\PublisherSubscriber\bin\Debug\net8.0\InvokingLambdas.deps.json
+c:\github\JimFawcett\NewSite\Code\C#\CsPublisherSubscriber\PublisherSubscriber\bin\Debug\net8.0\InvokingLambdas.runtimeconfig.json
+c:\github\JimFawcett\NewSite\Code\C#\CsPublisherSubscriber\PublisherSubscriber\bin\Debug\net8.0\InvokingLambdas.dll
+c:\github\JimFawcett\NewSite\Code\C#\CsPublisherSubscriber\PublisherSubscriber\bin\Debug\net8.0\InvokingLambdas.pdb
+c:\github\JimFawcett\NewSite\Code\C#\CsPublisherSubscriber\PublisherSubscriber\obj\Debug\net8.0\InvokingLambdas.dll
+c:\github\JimFawcett\NewSite\Code\C#\CsPublisherSubscriber\PublisherSubscriber\obj\Debug\net8.0\refint\InvokingLambdas.dll
+c:\github\JimFawcett\NewSite\Code\C#\CsPublisherSubscriber\PublisherSubscriber\obj\Debug\net8.0\InvokingLambdas.pdb
+c:\github\JimFawcett\NewSite\Code\C#\CsPublisherSubscriber\PublisherSubscriber\obj\Debug\net8.0\PublisherSubscriber.genruntimeconfig.cache
+c:\github\JimFawcett\NewSite\Code\C#\CsPublisherSubscriber\PublisherSubscriber\obj\Debug\net8.0\ref\InvokingLambdas.dll
